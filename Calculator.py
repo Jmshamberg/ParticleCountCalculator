@@ -69,15 +69,14 @@ calculator_header = """
 //////////////////////////////////////////////////////////////////////////////
 ------------------------------------------------------------------------------
 
-     *** Fluid Analysis HFDU Particle Count Calculator --- Version 1.0 ***
+     *** Particle Count Calculator --- Version 1.0 ***
                  --- Generates ISO 4406 Cleanliness Codes ---
                  --- Generates NAS 1683 Cleanliness Codes ---
                  --- Generates SAE SA 4059 Classes ---
 
 ------------------------------------------------------------------------------
 
-Programed by Jonathan Shamberg [Jonathan.Shamberg@quakerhoughton.com]
-Developed for use by Quaker Houghton
+Programed by Jonathan Shamberg [JMShamberg@gmail.com]
 Last Updated: 03/29/2020
 
 -------------------------------------------------------------------------------
